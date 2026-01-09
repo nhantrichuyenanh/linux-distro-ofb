@@ -42,10 +42,10 @@ Meanwhile, some distros are for newly migrated users from Windows, some for comp
   - I don't want to deal with driver issues on Linux, which is so time-consuming to diagnose and fix
   - it is fixable, so why bother switching to GNU/Linux in the first place?
 
-Here're some websites to get started:
+Here're some websites to get started: (these sources below are authoritative)
 - [Linux for Beginners](https://christitus.com/linux-for-beginners "Chris Titus Tech")
 - [Windows to Linux for Powerusers](https://christitus.com/windows-to-linux "Chris Titus Tech")
-
+- [Linux explained](https://www.youtube.com/watch?v=vpdnMPDEBrg "Awesome")
 ---
 
 P.S. I successfully installed **Arch Linux (Cinnamon)** on an old 2007 DELL laptop, but didn't on a 2013 SONY one. So for the latter, I installed **Linux Mint**, which was successful but it ran painfully slow, so I ultimately installed **EndeavourOS (KDE Plasma)**.
