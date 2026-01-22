@@ -36,7 +36,7 @@ Meanwhile, some distros are for newly migrated users from Windows, some for comp
   - learning system and admin tools that comes preinstalled or needed to be installed
 
 - I still use Windows 11 on my PC because:
-  - I have to research which distro to pick and which alternative to download should software isn't available on Linux
+  - I have to research which distro to pick and which alternative to download should software isn't available on Linux. Even if distro doesn't matter, I'd still have to research which DE I like
   - installing distro, configuring, setting up, and installing software takes up so much time, effort, patience and willpower
   - all the hotkeys, directory structure, system applications, OS security, and GUI on Linux are radically different to Windows
   - I don't want to deal with driver issues on Linux, which is so time-consuming to diagnose and fix
