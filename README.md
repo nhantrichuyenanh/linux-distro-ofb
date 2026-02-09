@@ -21,7 +21,7 @@ So it's no surprise Windows is known for having its fair share of downsides:
   - unnecessary preinstalled system/administrative tools only technical users use  
   - legacy components like *Phone and Modem (from Windows 95/98)*, and *Windows Problem Reporting* for example
   - half-baked Settings, frequently redirecting to Control Panel dialogs for advanced configurations <sup>though Microsoft is making strides in migrating them to Settings</sup>
-  - feature duplications such as *Disk Cleanup* - *Storage Sense*, *Run dialog* - *Windows Search*, *[MSRT](https://www.youtube.com/watch?v=PXTsuda6cvI)* - *Windows Defender*, etc...  
+  - feature duplications such as *Disk Cleanup* - *Storage Sense*, *Run dialog* - *Windows Search*, *[MSRT](https://www.youtube.com/watch?v=PXTsuda6cvI&t=30s "ThioJoe")* - *Windows Defender*, etc...  
 
 All of these drawbacks can be fixed with third-party tools.
 
